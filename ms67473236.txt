@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "starbase.com.ai",
+  "Id": "ce0b8792-7238-4b66-b42e-4dd556f07f2e"
+}
